@@ -1,0 +1,17 @@
+    @media (max-width: 768px) {
+        .card-body h1 {
+            font-size: 1.5rem;
+        }
+        .text-muted {
+            font-size: 0.9rem;
+        }
+    }
+    
+    @media (max-width: 576px) {
+        .container {
+            padding: 10px;
+        }
+        .card-body {
+            padding: 15px;
+        }
+    }
